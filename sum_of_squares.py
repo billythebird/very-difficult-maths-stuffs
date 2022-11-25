@@ -1,5 +1,5 @@
 
-#COMPUTE SUM OF SQUARES
+#COMPUTE SUM OF SQUARES!!!
 
 sum_of_squares = 0
 N=10
